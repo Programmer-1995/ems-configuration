@@ -1,6 +1,6 @@
 spring:  
   boot:
-    message: dev-profile-activated-1
+    message: dev-profile-activated-again
   datasource:
     url: jdbc:postgresql://localhost:5432/department_db
     username: emp_user
