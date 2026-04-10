@@ -1,4 +1,6 @@
 spring:  
+  boot:
+    message: dev-profile-ems-service
   rabbitmq:
     host: localhost
     username: guest
