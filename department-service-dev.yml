@@ -5,7 +5,7 @@ spring:
     password: guest
     port: 5672
   boot:
-    message: dev-profile-activated-again-2nd-times
+    message: dev-profile-department-service
   datasource:
     url: jdbc:postgresql://localhost:5432/department_db
     username: emp_user
