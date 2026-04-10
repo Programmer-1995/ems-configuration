@@ -1,6 +1,6 @@
 spring:  
   boot:
-    message: dev-profile-employee-service
+    message: dev-profile-employee-service-activated-again
   rabbitmq:
     host: localhost
     username: guest
