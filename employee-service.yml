@@ -37,6 +37,11 @@ management:
       show-details: always
 
 resilience4j:
+  retry:
+    instances:
+      employee-service:
+        max-attempts: 5
+        wait-duration: 1s
   circuitbreaker:
     instances:
       employee-service:
